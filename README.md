@@ -7,7 +7,7 @@
 
 ![Counter design](https://github.com/aiunderstand/tt03p5-4-trit-balanced-ternary-counter-bt_signb_bt-radix-convertor/blob/main/counter_design.png)
 
-![FPGA test](https://github.com/aiunderstand/tt03p5-4-trit-balanced-ternary-counter-bt_signb_bt-radix-convertor/blob/main/basys3_fpga.png)
+![FPGA test](https://github.com/aiunderstand/tt03p5-4-trit-balanced-ternary-counter-bt_signb_bt-radix-convertor/blob/main/basys3_fpga.jpg)
 
 > Note: this is an experimental template for Tiny Tapeout 03p5 (3.5). Please talk to us before using it!
 
